@@ -129,4 +129,10 @@ dmypy.json
 .pyre/
 
 # data ignore
-sample
+data
+
+# weight file ignore
+work_dirs
+
+# csv file ignore
+*.csv
